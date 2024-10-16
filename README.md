@@ -1,1 +1,2 @@
-# K-Means-Clustering-in-Python
+Guided by the talented YouTuber Andy McDonald and my own inquisitiveness utilizing ChatGPT (Generative AI) along the way, I conducted this K-Means Clustering Analysis on Petrophysics data.
+The uncovering of crucial measures like Inertia and Silhouette score, and Cluster Sizes, etc. was a good experience especially for a budding Data Scientist like me who aspires to enter the field optimally and progress exponentially.
